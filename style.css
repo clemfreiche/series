@@ -1,0 +1,43 @@
+h1 {
+    color: rgb(47, 84, 41);
+    font-family:'Roboto', sans-serif;
+    font-size: 2em;
+    text-align: center;
+    padding: 70px;
+    background-image: url('background.jpeg');
+    background-size: cover;
+    background-position: bottom;
+    opacity: 0.8;
+    border: 2px solid rgb(555, 555, 555);
+}
+h2 {
+    color:rgb(74, 65, 115);
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 1.2em;
+}
+li {
+    color:black;
+    font-family: 'Segoe UI', sans-serif;
+    font-size: 0.9em;
+}
+
+.reperes_titres,
+p {
+    font-family:'Segoe UI', sans-serif;
+    text-align: center;
+    font-size: 0.9em;
+    
+}
+
+body {
+    background: linear-gradient(to bottom,#ffd27e,#fed892, #fce8c5,#fff6e5);
+}
+
+.up_button {
+    border: 2px solid rgb(47, 84, 41);
+    border-radius: 5px 5px 5px 5px;
+}
+
+.marge_tab {
+    margin-left: 3.7em;
+}
